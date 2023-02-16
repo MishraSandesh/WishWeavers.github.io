@@ -23,6 +23,16 @@ function validateform() {
     window.location.href = "http://www.w3schools.com";
     return false;
   } 
+  else if (name == "nikki@wishweavers.com" && password == "nikki@1") 
+  {
+    window.location.href = "http://www.w3schools.com";
+    return false;
+  } 
+  else if (name == "shraddha@wishweavers.com" && password == "shraddha@1") 
+  {
+    window.location.href = "http://www.w3schools.com";
+    return false;
+  } 
   else
   {
     alert("Please enter valid credentials");
