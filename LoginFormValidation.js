@@ -23,7 +23,7 @@ function validateform() {
     window.location.href = "http://www.w3schools.com";
     return false;
   } 
-  else if (name == "nikki@wishweavers.com" && password == "nikki@1") 
+  else if (name == "nikki@wishweavers.com" && password == "nikki") 
   {
     window.location.href = "https://mishrasandesh.github.io/LovePage.github.io/";
     return false;
