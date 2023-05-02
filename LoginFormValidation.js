@@ -25,7 +25,7 @@ function validateform() {
   } 
   else if (name == "nikki@wishweavers.com" && password == "nikki@1") 
   {
-    window.location.href = "http://www.w3schools.com";
+    window.location.href = "https://mishrasandesh.github.io/LovePage.github.io/";
     return false;
   } 
   else if (name == "shraddha@wishweavers.com" && password == "shraddha@1") 
